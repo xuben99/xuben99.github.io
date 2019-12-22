@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XuBen&#39;s personal Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-12-22T05:46:15.772Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>XuBen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的博客</title>
+    <link href="http://yoursite.com/2019/12/22/wo-de-bo-ke/"/>
+    <id>http://yoursite.com/2019/12/22/wo-de-bo-ke/</id>
+    <published>2019-12-22T05:46:07.000Z</published>
+    <updated>2019-12-22T05:46:15.772Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="HEXO" scheme="http://yoursite.com/tags/HEXO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/12/20/hello-world/"/>
+    <id>http://yoursite.com/2019/12/20/hello-world/</id>
+    <published>2019-12-20T04:56:15.379Z</published>
+    <updated>2019-12-20T04:56:15.379Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>typora-vue-theme主题介绍</title>
+    <link href="http://yoursite.com/2018/09/07/shi-li/"/>
+    <id>http://yoursite.com/2018/09/07/shi-li/</id>
+    <published>2018-09-07T01:25:00.000Z</published>
+    <updated>2019-12-22T07:42:32.072Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://yoursite.com/categories/Markdown/"/>
+    
+    
+      <category term="Typora" scheme="http://yoursite.com/tags/Typora/"/>
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
