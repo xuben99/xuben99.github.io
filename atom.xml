@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>超爱学习的阿奔同学</title>
   
-  <subtitle>XuBen&#39;s Blog</subtitle>
+  <subtitle>Xuben&#39; Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://47.99.147.134/"/>
   <updated>2019-12-24T16:01:08.261Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://47.99.147.134/</id>
   
   <author>
     <name>徐奔</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>抽象类(Abstract)与接口(Interface)的基本使用以及区别!</title>
-    <link href="http://yoursite.com/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/"/>
-    <id>http://yoursite.com/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/</id>
+    <link href="http://47.99.147.134/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/"/>
+    <id>http://47.99.147.134/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/</id>
     <published>2019-12-24T15:59:26.000Z</published>
     <updated>2019-12-24T16:01:08.261Z</updated>
     
@@ -37,14 +37,14 @@
     
     
     
-      <category term="JavaSE" scheme="http://yoursite.com/tags/JavaSE/"/>
+      <category term="JavaSE" scheme="http://47.99.147.134/tags/JavaSE/"/>
     
   </entry>
   
   <entry>
     <title>JDBC基础入门，常用操作大全！</title>
-    <link href="http://yoursite.com/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/"/>
-    <id>http://yoursite.com/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/</id>
+    <link href="http://47.99.147.134/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/"/>
+    <id>http://47.99.147.134/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/</id>
     <published>2019-12-24T15:59:26.000Z</published>
     <updated>2019-12-24T16:00:25.171Z</updated>
     
@@ -62,7 +62,7 @@
     
     
     
-      <category term="JDBC" scheme="http://yoursite.com/tags/JDBC/"/>
+      <category term="JDBC" scheme="http://47.99.147.134/tags/JDBC/"/>
     
   </entry>
   
