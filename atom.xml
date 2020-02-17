@@ -5,9 +5,9 @@
   <subtitle>Xuben&#39; Blog</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://47.99.147.134/"/>
-  <updated>2019-12-24T16:00:25.171Z</updated>
-  <id>http://47.99.147.134/</id>
+  <link href="http://www.xuben99.cn/"/>
+  <updated>2019-12-24T16:01:08.261Z</updated>
+  <id>http://www.xuben99.cn/</id>
   
   <author>
     <name>徐奔</name>
@@ -17,34 +17,9 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JDBC基础入门，常用操作大全！</title>
-    <link href="http://47.99.147.134/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/"/>
-    <id>http://47.99.147.134/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/</id>
-    <published>2019-12-24T15:59:26.000Z</published>
-    <updated>2019-12-24T16:00:25.171Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;JDBC基础入门，常用操作大全！&quot;&gt;&lt;a href=&quot;#JDBC基础入门，常用操作大全！&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="JDBC" scheme="http://47.99.147.134/tags/JDBC/"/>
-    
-  </entry>
-  
-  <entry>
     <title>抽象类(Abstract)与接口(Interface)的基本使用以及区别!</title>
-    <link href="http://47.99.147.134/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/"/>
-    <id>http://47.99.147.134/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/</id>
+    <link href="http://www.xuben99.cn/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/"/>
+    <id>http://www.xuben99.cn/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/</id>
     <published>2019-12-24T15:59:26.000Z</published>
     <updated>2019-12-24T16:01:08.261Z</updated>
     
@@ -62,7 +37,32 @@
     
     
     
-      <category term="JavaSE" scheme="http://47.99.147.134/tags/JavaSE/"/>
+      <category term="JavaSE" scheme="http://www.xuben99.cn/tags/JavaSE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC基础入门，常用操作大全！</title>
+    <link href="http://www.xuben99.cn/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/"/>
+    <id>http://www.xuben99.cn/2019/12/24/jdbc-ji-chu-ru-men-chang-yong-cao-zuo-da-quan/</id>
+    <published>2019-12-24T15:59:26.000Z</published>
+    <updated>2019-12-24T16:00:25.171Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;JDBC基础入门，常用操作大全！&quot;&gt;&lt;a href=&quot;#JDBC基础入门，常用操作大全！&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="JDBC" scheme="http://www.xuben99.cn/tags/JDBC/"/>
     
   </entry>
   
