@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.xuben99.cn/"/>
-  <updated>2019-12-24T16:01:08.261Z</updated>
+  <updated>2019-12-24T16:00:25.171Z</updated>
   <id>http://www.xuben99.cn/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>抽象类(Abstract)与接口(Interface)的基本使用以及区别!</title>
-    <link href="http://www.xuben99.cn/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/"/>
-    <id>http://www.xuben99.cn/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/</id>
-    <published>2019-12-24T15:59:26.000Z</published>
-    <updated>2019-12-24T16:01:08.261Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;Abstract与Interface的基本使用以及区别&quot;&gt;&lt;a href=&quot;#Abstract与Interface的基本使用以及区别&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="JavaSE" scheme="http://www.xuben99.cn/tags/JavaSE/"/>
-    
-  </entry>
   
   <entry>
     <title>JDBC基础入门，常用操作大全！</title>
@@ -63,6 +38,31 @@
     
     
       <category term="JDBC" scheme="http://www.xuben99.cn/tags/JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>抽象类(Abstract)与接口(Interface)的基本使用以及区别!</title>
+    <link href="http://www.xuben99.cn/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/"/>
+    <id>http://www.xuben99.cn/2019/12/24/chou-xiang-lei-abstract-yu-jie-kou-interface-de-ji-ben-shi-yong-yi-ji-qu-bie/</id>
+    <published>2019-12-24T15:59:26.000Z</published>
+    <updated>2019-12-24T16:01:08.261Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Abstract与Interface的基本使用以及区别&quot;&gt;&lt;a href=&quot;#Abstract与Interface的基本使用以及区别&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="JavaSE" scheme="http://www.xuben99.cn/tags/JavaSE/"/>
     
   </entry>
   
